@@ -1,0 +1,22 @@
+{
+  "name": "sync-gh-pages",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "gh-pages": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/hengkx/sync-gh-pages/issues"
+  },
+  "author": "Tom Xu",
+  "homepage": "https://github.com/hengkx/sync-gh-pages#readme",
+  "dependencies": {
+    "decompress": "^4.2.0",
+    "download": "^6.2.5",
+    "fs-extra": "^5.0.0",
+    "moment": "^2.22.0",
+    "node-schedule": "^1.3.0",
+    "serve": "^6.5.4"
+  }
+}
