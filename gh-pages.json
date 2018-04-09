@@ -1,5 +1,5 @@
 {
     "url": "https://codeload.github.com/ant-design/ant-design/zip/gh-pages",
     "port": 11001,
-    "schedule": "*/1 * * * *"
+    "schedule": "* */1 * * *"
 }
